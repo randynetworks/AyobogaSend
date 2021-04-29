@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="AyoKurir!"
+        android:text="AyoSend!"
         android:textColor="@color/red_primary"
         android:textSize="30sp"
         android:textStyle="bold"
